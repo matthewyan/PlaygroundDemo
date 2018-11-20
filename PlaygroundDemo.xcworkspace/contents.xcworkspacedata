@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Normal.playground">
+   </FileRef>
+   <FileRef
+      location = "group:CreateML.playground">
+   </FileRef>
+   <FileRef
+      location = "group:View.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Map.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Game.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Markdown.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Resource.playground">
+   </FileRef>
+   <FileRef
+      location = "group:RunStep.playground">
+   </FileRef>
+   <FileRef
+      location = "group:CustomShow.playground">
+   </FileRef>
+</Workspace>
